@@ -1,4 +1,4 @@
-# Application CarnetApp
+# Application Carnet d'adresses
 ===============
 
 Par Abdelhafid HASSINE
